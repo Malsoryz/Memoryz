@@ -1,0 +1,2 @@
+# Memoryz
+Text Editor Application
